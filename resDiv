@@ -1,0 +1,23 @@
+class="res_div"
+
+css:
+
+.res_div{
+
+	width: %;
+	height: %;
+	max-width: px;
+	min-width: px;
+	max-height: px;
+	min-height: px;
+	marging: %;
+}
+
+@media screen and(max-width: 720px){
+	.res_div{
+		width: %;
+		height: %;	
+	}
+}
+
+
